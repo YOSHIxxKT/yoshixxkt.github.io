@@ -39,7 +39,9 @@ on:
 ```bash
 sudo apt update && sudo apt upgrade 
 ```
-
+```powershell
+lolololololololololo
+```
 
 ## Photos
 

@@ -16,13 +16,16 @@ image: assets/lib/images/images.jpg
 * Install Ubuntu (Up to you)
 * Go to the setting and into JSON File, Copy Ubuntu ID and Paste to Default Profile 
 * Install "Z Shell"
- ```Powershell
- sudo apt update
- sudo apt install zsh
- sudo apt install powerline fonts-powerline
+```bash
+sudo apt update
+sudo apt install zsh
+sudo apt install powerline fonts-powerline
  ```
+ 
+
 * Install "Oh My Zsh"
-```Powershell
+
+```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 

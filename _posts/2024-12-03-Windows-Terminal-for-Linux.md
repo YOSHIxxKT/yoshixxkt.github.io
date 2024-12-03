@@ -15,6 +15,10 @@ image: assets/lib/images/images.jpg
 ![img-description](/assets/lib/images/2024-12-03.png)
 * Install Ubuntu (Up to you)
 * Go to the setting and into JSON File, Copy Ubuntu ID and Paste to Default Profile 
+![img-description](/assets/lib/images/ubuntu.jpg)
+
+
+![img-description](/assets/lib/images/defaultprofile.jpeg)
 * Install "Z Shell"
 ```bash
 sudo apt update

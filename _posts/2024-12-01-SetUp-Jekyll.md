@@ -1,8 +1,9 @@
 ---
-title: SetUp WebSite
+title: Just Noted
 date: 2024-12-01 5:13
-categories: [Ruby, Jekyll]
+categories: [Jekyll]
 tags: [portfolio, ubuntu] # TAG names should always be lowercase
+image: assets/lib/images/kowalski-noted.png
 ---
 
 # SetUp WebSite
@@ -45,4 +46,11 @@ lolololololololololo
 
 ## Photos
 
+ ![img-description](assets/lib/images/IMG_2080.JPG)
 
+> This is a blockquote.
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data     | Data     |
+| Row 2    | Data     | Data     |

@@ -54,3 +54,13 @@ lolololololololololo
 |----------|----------|----------|
 | Row 1    | Data     | Data     |
 | Row 2    | Data     | Data     |
+
+
+> Push to GitHub
+
+```bash
+git status
+git add .
+git commit -m "Something comments"
+git push
+```

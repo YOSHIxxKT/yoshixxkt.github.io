@@ -3,7 +3,7 @@ title: Just Noted
 date: 2024-12-01 5:13
 categories: [Jekyll]
 tags: [portfolio, ubuntu] # TAG names should always be lowercase
-image: assets/lib/images/kowalski-noted.png
+image: /assets/lib/images/kowalski-noted.jpg
 ---
 
 # SetUp WebSite

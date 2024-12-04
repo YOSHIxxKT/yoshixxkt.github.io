@@ -3,7 +3,7 @@ title: Windows Terminal for Linux
 date: 2024-12-03 5:53
 categories: [Ubuntu]
 tags: [portfolio, ubuntu] # TAG names should always be lowercase
-image: /assets/lib/images/images.jpg
+image: https://raw.githubusercontent.com/YOSHIxxKT/Portfolio/refs/heads/main/images/images/images.jpg
 ---
 
 

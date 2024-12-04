@@ -3,8 +3,9 @@ title: Windows Terminal for Linux
 date: 2024-12-03 5:53
 categories: [Ubuntu]
 tags: [portfolio, ubuntu] # TAG names should always be lowercase
-image: assets/lib/images/images.jpg
+image: /assets/lib/images/images.jpg
 ---
+
 
 # To Use Linux Commands on Windows 
 
@@ -12,13 +13,13 @@ image: assets/lib/images/images.jpg
 * Install the Windows Subsystem For Linux
 (This gets you Linux on top of Windows)
 
-![img-description](/assets/lib/images/2024-12-03.png)
+![img-description](/assets/lib/images/Windowsubsystem.jpg)
 * Install Ubuntu (Up to you)
 * Go to the setting and into JSON File, Copy Ubuntu ID and Paste to Default Profile 
 ![img-description](/assets/lib/images/ubuntu.jpg)
 
 
-![img-description](/assets/lib/images/defaultprofile.jpeg)
+![img-description](/assets/lib/images/defaultprofile.jpg)
 * Install "Z Shell"
 ```bash
 sudo apt update

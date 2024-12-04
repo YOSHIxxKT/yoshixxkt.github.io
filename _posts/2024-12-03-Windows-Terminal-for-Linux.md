@@ -13,7 +13,7 @@ image: /assets/lib/images/images.jpg
 * Install the Windows Subsystem For Linux
 (This gets you Linux on top of Windows)
 
-![img-description](/assets/lib/images/Windowsubsystem.jpg)
+![img-description]({{ site.baseurl }}/assets/lib/images/Windowsubsystem.jpg)
 * Install Ubuntu (Up to you)
 * Go to the setting and into JSON File, Copy Ubuntu ID and Paste to Default Profile 
 ![img-description](/assets/lib/images/ubuntu.jpg)

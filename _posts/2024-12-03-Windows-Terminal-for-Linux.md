@@ -1,7 +1,7 @@
 ---
 title: Windows Terminal for Linux
 date: 2024-12-03 5:53
-categories: [Ubuntu]
+categories: [Linux]
 tags: [Linux] # TAG names should always be lowercase
 image: https://raw.githubusercontent.com/YOSHIxxKT/Portfolio/refs/heads/main/images/images/images.jpg?token=GHSAT0AAAAAAC3HK5KFXGZ3HFOIE56HGJLIZ2QABDQ
 ---

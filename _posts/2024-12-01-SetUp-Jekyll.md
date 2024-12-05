@@ -2,7 +2,7 @@
 title: Just Noted
 date: 2024-12-01 5:13
 categories: [Jekyll]
-tags: [portfolio, ubuntu] # TAG names should always be lowercase
+tags: [commands] # TAG names should always be lowercase
 image: https://raw.githubusercontent.com/YOSHIxxKT/Portfolio/refs/heads/main/images/images/kowalski-noted.jpg?token=GHSAT0AAAAAAC3HK5KFOXT7C5MOKY3YOG7KZ2P77GA
 ---
 

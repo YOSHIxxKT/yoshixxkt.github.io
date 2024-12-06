@@ -3,10 +3,12 @@ title: Microsoft Sentinel
 date: 2024-12-06 4:49
 categories: [Microsoft Azure]
 tags: [Microsoft Azure] # TAG names should always be lowercase
-image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/microsoft-sentinel.png
+image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/microsenti.png
 ---
 
 # Microsoft Sentinel Kusto Queries for Azure AD data sources
+
+> This document and the configurations contained herein are works of fiction created for illustrative and educational purposes only. Any similarities to real persons, institutions, organizations, systems, or scenarios are purely coincidental.
 
 ### Microsoft Sentinel
 Microsoft Sentinel is a scalable, cloud-native security information and event management (SIEM) that delivers an intelligent and comprehensive solution for SIEM and security orchestration, automation, and response (SOAR). Microsoft Sentinel provides cyberthreat detection, investigation, response, and proactive hunting, with a bird's-eye view across your enterprise.

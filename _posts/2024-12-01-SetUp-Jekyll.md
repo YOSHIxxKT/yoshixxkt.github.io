@@ -3,7 +3,7 @@ title: Just Noted
 date: 2024-12-01 5:13
 categories: [commands]
 tags: [commands] # TAG names should always be lowercase
-image: https://raw.githubusercontent.com/YOSHIxxKT/Portfolio/refs/heads/main/images/images/kowalski-noted.jpg?
+image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/kowalski-noted.jpg
 ---
 
 # SetUp WebSite

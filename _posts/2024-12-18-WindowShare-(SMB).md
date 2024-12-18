@@ -1,6 +1,6 @@
 ---
 title: SMB share in TrueNAS Core
-date: 2024-12-18-04:00
+date: 2024-12-18-16:00
 categories: [True NAS]
 tags: [True NAS] # TAG names should always be lowercase
 image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/smb.jpg

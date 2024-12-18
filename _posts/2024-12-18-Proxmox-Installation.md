@@ -1,8 +1,8 @@
 ---
 title: Proxmox Installation
 date: 2024-12-18-9:36
-categories: [Home Server]
-tags: [Home Server] # TAG names should always be lowercase
+categories: [Proxmox]
+tags: [Proxmox] # TAG names should always be lowercase
 image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/proxmox000.png
 ---
 

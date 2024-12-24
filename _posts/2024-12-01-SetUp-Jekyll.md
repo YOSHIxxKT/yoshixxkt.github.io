@@ -64,3 +64,6 @@ git add .
 git commit -m "Something comments"
 git push
 ```
+
+Resume tips
+https://www.linkedin.com/news/story/choose-your-cv-name-wisely-6263788/

@@ -22,6 +22,10 @@ Make a USB Drive using Balena Etcher or Rufus (I found some problems with Rufus,
 Follow the set up process, 
 
 * Install Proxmox VE (Graphical)
+> There is a problem with the installation process not processing and freezing. To solve this issue, modify boot parameters. 1, At the boot menu (when selecting the Proxmox installer), press "e" to edit boot options. 2, Add the following parameters at the end of the line stating with linux: 
+```bash
+nomodeset
+```
 * Accept the License
 * Select the Target Hard Disk
 * Select the "Country", "Time Zone", "Keyboard Layout"

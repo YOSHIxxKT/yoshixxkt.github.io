@@ -3,7 +3,7 @@ title: Manage Subscriptions and RBAC
 date: 2025-01-25-9:15
 categories: [Microsoft Azure]
 tags: [Microsoft Azure] # TAG names should always be lowercase
-image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/Azurelogo.png
+image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/RBAC.png
 ---
 
 ## Manage Subscriptions and RBAC
@@ -17,6 +17,9 @@ To simplify management of Azure resources in your organization, you have been ta
     Granting permissions to submit support requests for all subscriptions in the management group. The permissions should be limited only to:
         Create and manage virtual machines
         Create support request tickets (do not include adding Azure providers)
+
+       
+ ![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/az104-lab02a-architecture.png)
 
 ### Task 1: Implement Management Groups
 

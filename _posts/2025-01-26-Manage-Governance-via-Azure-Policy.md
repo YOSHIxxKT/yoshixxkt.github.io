@@ -3,7 +3,7 @@ title: Manage Governance via Azure Policy
 date: 2025-01-26-9:15
 categories: [Microsoft Azure]
 tags: [Microsoft Azure] # TAG names should always be lowercase
-image: 
+image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/hero_azure_governance.webp
 ---
 
 # Manage Governance via Azure Policy

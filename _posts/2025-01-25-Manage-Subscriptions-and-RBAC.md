@@ -35,7 +35,7 @@ In this task, you will create and configure management groups. Management groups
 
 4. Review the Access management for Azure resources area. Ensure you can manage access to all Azure subscriptions and management groups in the tenant.
 
-![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/task1-4.png)
+![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/RBAC_task1-4_blur.png)
 
 5. Search for and select Management groups.
 
@@ -48,12 +48,12 @@ In this task, you will create and configure management groups. Management groups
 | Management Group ID     | az104-mg1   |
 | Management group display name     | az104-mg1    |
 
-![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/task1-7.png)
+![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/RBAC_task1-7.png)
 
 
 8. Refresh the management group page to ensure your new management group displays. This may take a minute.
 
-![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/task1-8.png)
+![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/RBAC_task1-8.png)
 
 > Note: Did you notice the root management group? The root management group is built into the hierarchy to have all management groups and subscriptions fold up to it. This root management group allows for global policies and Azure role assignments to be applied at the directory level. After creating a management group, you would add any subscriptions that should be included in the group.
 
@@ -73,7 +73,7 @@ In this task, you will review the built-in roles and assign the VM Contributor r
 
 5. On the Add role assignment blade, search for and select the Virtual Machine Contributor. The Virtual machine contributor role lets you manage virtual machines, but not access their operating system or manage the virtual network and storage account they are connected to. This is a good role for the Help Desk. Select Next.
 
-![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/task2-5.png)
+![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/RBAC_task2-5.png)
 
 > Azure originally provided only the Classic deployment model. This has been replaced by the Azure Resource Manager deployment model. As a best practice, do not use classic resources.
 
@@ -85,11 +85,11 @@ In this task, you will review the built-in roles and assign the VM Contributor r
 
 8. Click Review + assign twice to create the role assignment.
 
-![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/task2-8.png)
+![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/RBAC_task2-8.png)
 
 9. Continue on the Access control (IAM) blade. On the Role assignments tab, confirm the helpdesk group has the Virtual Machine Contributor role.
 
-![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/task2-9.png)
+![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/RBAC_task2-9.png)
 
 > Note: As a best practice always assign roles to groups not individuals. 
 
@@ -115,7 +115,7 @@ In this task, you will create a custom RBAC role. Custom roles are a core part o
 
 4. For Baseline permissions, select Clone a role. In the Role to clone drop-down menu, select Support Request Contributor.
 
-![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/task3-4.png)
+![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/RBAC_task3-4.png)
 
 5. Select Next to move to the Permissions tab, and then select + Exclude permissions.
 
@@ -123,7 +123,7 @@ In this task, you will create a custom RBAC role. Custom roles are a core part o
 
 7. In the list of permissions, place a checkbox next to Other: Registers Support Resource Provider and then select Add. The role should be updated to include this permission as a NotAction.
 
-![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/task3-7.png) 
+![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/RBAC_task3-7.png) 
 
 > Note: An Azure resource provider is a set of REST operations that enable functionality for a specific Azure service. We do not want the Help Desk to be able to have this capability, so it is being removed from the cloned role.
 
@@ -143,6 +143,6 @@ In this task, you view the activity log to determine if anyone has created a new
 
 2. Review the activites for role assignments. The activity log can be filtered for specific operations.
 
-![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/task4.png)
+![img-description](https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/RBAC_task4.png)
 
 

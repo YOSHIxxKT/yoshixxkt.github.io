@@ -3,7 +3,7 @@ title: Windows Subsystem for Linux
 date: 2024-12-03 5:53
 categories: [Linux]
 tags: [Linux] # TAG names should always be lowercase
-image: https://raw.githubusercontent.com/YOSHIxxKT/Portfolio/refs/heads/main/images/images/images.jpg
+image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/WindowsXLinux.jpg
 ---
 
 

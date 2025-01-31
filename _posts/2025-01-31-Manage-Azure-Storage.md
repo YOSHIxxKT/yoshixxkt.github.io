@@ -3,7 +3,7 @@ title: Manage Azure Storage
 date: 2025-01-31-10:20
 categories: [Microsoft Azure]
 tags: [Microsoft Azure] # TAG names should always be lowercase
-image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/images.jpg
+image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/Azure_storage_image.jpg
 ---
 
 ## Manage Azure Storage

@@ -1,6 +1,6 @@
 ---
 title: Implement Web Apps
-date: 2025-02-02-3:54
+date: 2025-02-02-15:54
 categories: [Microsoft Azure]
 tags: [Microsoft Azure] # TAG names should always be lowercase
 image: https://raw.githubusercontent.com/YOSHIxxKT/WareHouse/refs/heads/main/images/images/1_LPsV4yody2YbNDFZjz6mmg.png
